@@ -13,8 +13,9 @@
 }
 
 .profile-logo {
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
   object-fit: cover;
-  margin-top: 30px;
+  margin-top: 75px;
+  margin-left: -10px;
 }

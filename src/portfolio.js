@@ -23,30 +23,29 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Wanderlust(Travel Listing Web-Application)',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-    image: 'cleanfolio.png',
+      'Wanderlust is an End-to-End travel listing platform.It enables users to create, explore property listings,manage reviews and securely authenticate accounts for a seamless travel experience.',
+    stack: ['EJS', 'Mongo', 'React', 'Node.js'],
+    sourceCode: 'https://github.com/mandasriharshithreddy/Wanderlust',
+    livePreview: 'https://github.com/mandasriharshithreddy/Wanderlust',
   },
   {
-    name: 'Project 2',
+    name: 'Loan Analytics and Applicant Risk Profiling',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'Designed an interactive Power-BI dashboard to analyze loan defaults,distribution and applicant demographics, Visualized loan distribution across ages,marital status and education.',
     stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/mandasriharshithreddy',
+    livePreview: 'https://github.com/mandasriharshithreddy',
     //image: 'https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png',
   },
   {
-    name: 'Project 3',
+    name: 'My Portfolio',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'My Portfolio is a responsive personal portfolio website built with React,showcasing my technical skills,projects,education and experience. It highlights my development journey and helps recruiters explore my work.',
+    stack: ['HTML', 'CSS', 'React'],
+    sourceCode: 'https://github.com/mandasriharshithreddy/My-Portfolio',
+    livePreview: 'https://github.com/mandasriharshithreddy/My-Portfolio',
   },
 ]
 
@@ -66,6 +65,8 @@ const skills = [
   'MongoDB',
   'Restful APIs',
   'Git',
+  'AI',
+  'Machine Learning',
   
 ]
 
